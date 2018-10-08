@@ -20,6 +20,8 @@ print(s)
 ##with multiple values, format syntax is used as follow:
 ss = "I am {0} years old, My name is {1},I love being {0}".format(21,"jevin")#remember starts with 0
 print(ss)
+ >>>I love her
+ >>>I am 21 years old, My name is jevin,I love being 21
 -------------------------------------------------------
 #None
 ##表示什么都没有
